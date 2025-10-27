@@ -522,7 +522,7 @@ export default function SimulationApp() {
 
   const tools = [
     { id: 'flowline', label: 'Linha', icon: '➡️', description: 'Corrente de Fluxo - Clique e arraste' },
-    { id: 'connect', label: 'Conectar', icon: '🔗', description: 'Conectar linhas aos equipamentos' },
+
     { id: 'mixer', label: 'Mixer', icon: '🌀', description: 'Misturador - Múltiplas entradas/saídas' },
     { id: 'moinho', label: 'Moinho', icon: '⚙️', description: 'Moinho de Bolas' },
     { id: 'britador', label: 'Britador', icon: '🔨', description: 'Britador' },
